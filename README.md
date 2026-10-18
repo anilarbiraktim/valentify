@@ -1,7 +1,7 @@
 
 # 🌱 YeşilYaşam
 
-Doğa ve çevre bilincini artırmayı amaçlayan modern, responsive bir web sitesi.
+Doğa ve çevre bilincini artırmayı amaçlayan modern bir web sitesi.
 
 ## 📌 Proje hakkında
 
